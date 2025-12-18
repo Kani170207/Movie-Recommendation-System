@@ -2,6 +2,9 @@
 
 A content-based Movie Recommendation System built using **NLP (TF-IDF + Cosine Similarity)** and **Streamlit**.
 
+LIVE APP LINK:
+https://movie-recommendation-system-yjnhugpbvvhryp9yqvocmj.streamlit.app/#my-watchlist
+
 ## 🚀 Features
 - Genre-based movie recommendations
 - NLP-powered similarity matching
@@ -26,3 +29,4 @@ A content-based Movie Recommendation System built using **NLP (TF-IDF + Cosine S
 pip install -r requirements.txt
 streamlit run app.py
  
+
